@@ -1,0 +1,24 @@
+.divElement{
+    border: 5px solid red;
+    color: white;
+    display: inline;
+    text-size-adjust: lg;
+    display: flex;
+    flex-direction:"row";
+    padding: 4px;
+    margin: 5px;
+    font-size: 20px;
+    background-color:black;
+    
+}
+*{
+    background-image: url("https://in.images.search.yahoo.com/images/view;_ylt=Awr1RVpEj2Vm1tcx5FO9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2VlYTRmMTdiMmI2MGFmMzdiNjZjNjZkZjJiOGYyYjE0BGdwb3MDNQRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dentropy%2Bwallpaper%26type%3DE210IN0G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D5&w=1350&h=550&imgurl=i.pinimg.com%2Foriginals%2F65%2F30%2Fb3%2F6530b3dc37a73892352da206acb2f1a3.jpg&rurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F381891243373715759%2F&size=267.0KB&p=entropy+wallpaper&oid=eea4f17b2b60af37b66c66df2b8f2b14&fr2=piv-web&fr=mcafee&tt=Law+of+Entropy+%7C+Entropy%2C+Thermodynamics%2C+Mechanics+aesthetic&b=0&ni=21&no=5&ts=&tab=organic&sigr=g.TZiTa0c0GY&sigb=Wfe83yHdsTXf&sigi=WpEwATtKTviB&sigt=SDTLXycya0kP&.crumb=v.2I2r2P.7B&fr=mcafee&fr2=piv-web&type=E210IN0G0");
+}
+
+.divElement:hover {
+    border: 10px solid rgba(255,0,0,0.5);
+    color:blue;
+    background-color: rgba(200,200,200,0.8);
+    
+
+}
